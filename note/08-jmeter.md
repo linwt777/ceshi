@@ -1,3 +1,5 @@
+
+
 # 1.介绍
 
 ![image-20231016155024960](C:\Users\林伟腾\AppData\Roaming\Typora\typora-user-images\image-20231016155024960.png)
@@ -81,3 +83,39 @@
 # 6.关联
 
 ![image-20231016230609304](C:\Users\林伟腾\AppData\Roaming\Typora\typora-user-images\image-20231016230609304.png)
+
+# 7.参数化
+
+![image-20231017103322474](C:\Users\林伟腾\AppData\Roaming\Typora\typora-user-images\image-20231017103322474.png)
+
+![image-20231017104714662](C:\Users\林伟腾\AppData\Roaming\Typora\typora-user-images\image-20231017104714662.png)
+
+![image-20231017104741396](C:\Users\林伟腾\AppData\Roaming\Typora\typora-user-images\image-20231017104741396.png)
+
+![image-20231017104803501](C:\Users\林伟腾\AppData\Roaming\Typora\typora-user-images\image-20231017104803501.png)
+
+# 8.断言
+
+![image-20231017112055197](C:\Users\林伟腾\AppData\Roaming\Typora\typora-user-images\image-20231017112055197.png)
+
+![image-20231017112347224](C:\Users\林伟腾\AppData\Roaming\Typora\typora-user-images\image-20231017112347224.png)
+
+![image-20231017112417077](C:\Users\林伟腾\AppData\Roaming\Typora\typora-user-images\image-20231017112417077.png)
+
+![image-20231017112440880](C:\Users\林伟腾\AppData\Roaming\Typora\typora-user-images\image-20231017112440880.png)
+
+![image-20231017112819717](C:\Users\林伟腾\AppData\Roaming\Typora\typora-user-images\image-20231017112819717.png)
+
+# 9.逻辑控制器
+
+![image-20231017114821726](C:\Users\林伟腾\AppData\Roaming\Typora\typora-user-images\image-20231017114821726.png)
+
+![image-20231017115027313](C:\Users\林伟腾\AppData\Roaming\Typora\typora-user-images\image-20231017115027313.png)
+
+
+
+![image-20231017115106863](C:\Users\林伟腾\AppData\Roaming\Typora\typora-user-images\image-20231017115106863.png)
+
+![image-20231017114748059](C:\Users\林伟腾\AppData\Roaming\Typora\typora-user-images\image-20231017114748059.png)
+
+![image-20231017115708861](C:\Users\林伟腾\AppData\Roaming\Typora\typora-user-images\image-20231017115708861.png)
